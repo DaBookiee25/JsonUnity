@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Brett Edson M. Diaz",
+            "Age": "23",
+            "Favorite_Quote": "I am whatever you think I am."
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "1801105738@student.buksu.edu.ph"
+        }
+    ]
+}
